@@ -26,13 +26,13 @@ En intégrant Hibernate dans ce TP, nous optimisons la persistance des données 
 Voici les shémas de bases de données & les shémas de projets de ce tP:
 
 # Ex1TPHibernate:
-![imag](https://github.com/salmachtioui/TPsHibernate/assets/147477621/8bc233da-662a-49ae-a799-8d29b5d9c589)
-![imag1](https://github.com/salmachtioui/TPsHibernate/assets/147477621/53f65ebe-2062-4b6e-8bfe-9d62e1539d59)
+![ima2](https://github.com/salmachtioui/TPsHibernate/assets/147477621/766dbbcc-7ffb-4b86-b772-50f9e693c8a3)
+![imag2](https://github.com/salmachtioui/TPsHibernate/assets/147477621/bedb2898-6fbc-41ac-a873-5265828a52d9)
 
 # Ex2TPHibernate:
 ![ima1](https://github.com/salmachtioui/TPsHibernate/assets/147477621/8acd2eee-a703-4ce8-b5b5-fc162bda7fc7)
 ![imag3](https://github.com/salmachtioui/TPsHibernate/assets/147477621/63594c81-843e-4039-b78b-72171617814f)
 
 # Ex3TPHibernate:
-![ima2](https://github.com/salmachtioui/TPsHibernate/assets/147477621/766dbbcc-7ffb-4b86-b772-50f9e693c8a3)
-![imag2](https://github.com/salmachtioui/TPsHibernate/assets/147477621/bedb2898-6fbc-41ac-a873-5265828a52d9)
+![imag](https://github.com/salmachtioui/TPsHibernate/assets/147477621/8bc233da-662a-49ae-a799-8d29b5d9c589)
+![imag1](https://github.com/salmachtioui/TPsHibernate/assets/147477621/53f65ebe-2062-4b6e-8bfe-9d62e1539d59)
